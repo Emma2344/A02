@@ -1,0 +1,12 @@
+Branch: Allows to work in separate repositories that may later be merged together. Branches allow developers or department of a company to collaborate on projects.
+Clone: Allows to copy remote repository to local repository.
+Commit: Essentially a checkpoint, it saves progress for updates made to files and projects in your local repo. Each commit is assigned a unique code and a name; the user may choose to add a brief description. Previous versions of files can be restored by resetting to a previous commit. 
+Fetch: Bring changes from the remote repository to your local repo
+GIT: Version control system (tracks changes to code)
+Github: Website that store Git repositories
+Merge: combine codes and updates from different branches to the main branch
+Merge Conflict: When GitHub can’t merge branches automatically because different branches made changes to the same line of a file
+Push: Saves commits to remote repository
+Pull: Get changes made to the remote repository on github.com and bring them to the local repository
+Remote: Stored somewhere else, away from your local machine on a cloud or server
+Repository: Folder that stores project files
