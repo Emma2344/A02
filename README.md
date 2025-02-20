@@ -8,7 +8,7 @@
 -You may choose to keep your repo private and public.
 -Initialize your repo with a ReadMe by clicking the ‘Add a README file’ checkbox.
 
-Create and Upload Files
+3. Create and Upload Files
 -Click the ‘Add file’ button 
 -Creating New Files
   -Next Click ‘Create file’. 
